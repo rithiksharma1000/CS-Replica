@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 4878e1bc62b4b2f46aab921374e012e9
+timeCreated: 1520533953
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerGraphics: {instanceID: 0}
+  - playerUIPrefab: {instanceID: 0}
+  - playerUIInstance: {instanceID: 0}
+  - scoreBoard: {fileID: 114672947147481074, guid: b637eac4154d8f2478ee562ece1d5b53,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

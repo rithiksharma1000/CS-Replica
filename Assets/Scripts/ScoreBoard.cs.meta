@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 82f2460268ec4a947b7534898dc5a88c
+timeCreated: 1520515939
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerScoreElementPrefab: {fileID: 1275516867297452, guid: c2a193b26ac939d4fb079889274d180a,
+      type: 2}
+  - playerScoreElementParent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
