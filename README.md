@@ -1,6 +1,7 @@
 # CS-Replica
 (2018)
 A 3D multiplayer first-person shooter made in Unity inspired by Counter-Strike set in the 3D virtual map of locations in the IIT Kharagpur campus.
+
 All the scripts(/Assets/Scripts/) are written in C#.
 
 Build01.exe is the final executable.
